@@ -1,0 +1,24 @@
+.clock{
+
+   background-color: orange;
+   width: 200px;
+   height: 150px;
+   font-size: 20px;
+    border-radius: 10px;
+}
+body{
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+#time{
+    font-size: 30px;
+    font-weight: bold;
+}
+#date{
+    font-size: 18px;
+    margin-top: 15px;
+}
