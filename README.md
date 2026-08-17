@@ -23,9 +23,7 @@ A simple digital clock made using HTML, CSS and JavaScript.
 * `setInterval()`
 * Template literals
 
-## Run
 
-Download or clone the repository and open `index.html` in a browser.
 
 
 
